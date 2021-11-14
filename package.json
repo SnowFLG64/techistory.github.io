@@ -1,0 +1,28 @@
+{
+  "name": "Tech History",
+  "version": "1.0.0",
+  "description": "This is a site about the history of tech and the latest tech",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a  site about the history of tech and the latest tech"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedBoiOfficial/techistory.github.io/"
+  },
+  "keywords": [
+    "techistory,
+    "template",
+    "codesandbox"
+  ],
+  "author": "FlowLoop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedBoiOfficial/techistory.github.io/issues"
+  },
+  "homepage": "https://github.com/RedBoiOfficial/techistory.github.io/",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
